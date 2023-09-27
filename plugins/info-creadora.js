@@ -21,13 +21,13 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => imagen1[1]) 
 let teksbio = `TheZero
+*wa.me/5493813300744*
+
+Ludmi Owner 1	
 *Wa.me/59897463355*
 
-Zero Owner 1	
-*Wa.me/59897463355*
-
-Zero Owner 2
-*Wa.me/59897463355*
+ludmi Owner 2
+*wa.me/5493813300744*
 *---------------------*
 
 THEZERO CONTACTO
