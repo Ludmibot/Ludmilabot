@@ -18,9 +18,9 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭「INFORMACION DE THEZEROBOT」
+let str = `╭「INFORMACION DE THELUDMIBOT」
 │🛍️ *𝙷𝙾𝙻𝙰 𝚀𝚄𝙴 𝚃𝙰𝙻-${taguser}
-│🛍️ **𝙴𝚂𝚃𝙴 𝙴𝚂 𝙼𝙸 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙲𝙾𝙽𝚂𝚄𝙻𝚃𝙰𝚂:wa.me/59897463355*
+│🛍️ **𝙴𝚂𝚃𝙴 𝙴𝚂 𝙼𝙸 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙲𝙾𝙽𝚂𝚄𝙻𝚃𝙰𝚂:wa.me/5493813300744**
 │🛍️ *esta es la siguiente información de mis 𝙱ots
 ︎╰───────────────╯
 🛍️᭢━━━━━ZeroBot━━━━᭥🛍️᭢
