@@ -23,7 +23,7 @@ let str = `╭「INFORMACION DE THELUDMIBOT」
 │🛍️ **𝙴𝚂𝚃𝙴 𝙴𝚂 𝙼𝙸 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙲𝙾𝙽𝚂𝚄𝙻𝚃𝙰𝚂:wa.me/5493813300744**
 │🛍️ *esta es la siguiente información de mis 𝙱ots
 ︎╰───────────────╯
-🛍️᭢━━━━━ZeroBot━━━━᭥🛍️᭢
+🛍️᭢━━━━━ludmiBot━━━━᭥🛍️᭢
 ╭「𝐏𝐀𝐐𝐔𝐄𝐓𝐄 𝐃𝐄 𝐁𝐎𝐓𝐒 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐀𝐃𝐎𝐑」
 │-𝙿𝙰𝚁𝙰 𝙴𝚂𝚃𝙴 𝙱𝙾𝚃 𝚃𝙴𝙽𝙶𝙾 𝙴𝙻 hacer número bot- 𝙱𝙾𝚃 𝙿𝙴𝚁𝚂𝙾𝙽𝙰𝙻𝙸𝚉𝙰𝙳𝙾- 𝙱𝙾𝚃 𝙿𝚁𝙾𝙿𝙸𝙾𝚂
 │♥️HACER NÚMERO BOT:  Este bot lleva una personalizacion del creador es permanente y no tiene limite de grupos y te enseño a programarlo y aque tu mismo lo pongas en un numero
